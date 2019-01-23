@@ -1,2 +1,2 @@
 # Running-App
-Running app with route tracking functionality + run history recorded on web server
+Android running app with Google Maps route tracking/recording functionality + run history recorded on Google Firebase web server
